@@ -11,3 +11,4 @@
 2023/04/24
 
 # 作業記録画像
+![iamge](https://github.com/MettoNao/puzzle_study/blob/main/Image/Puyo_Image_01.png)
