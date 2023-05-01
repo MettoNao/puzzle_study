@@ -10,5 +10,12 @@
 ## Created date
 2023/04/24
 
-# 作業記録画像
+## 参考
+* https://github.com/puzzle-study
+
+## 作業記録画像
+* 04/24 Project追加、プヨと壁の配置
 ![iamge](https://github.com/MettoNao/puzzle_study/blob/main/Image/Puyo_Image_01.png)
+
+* 05/01 PuyoController追加、PuyoController
+![iamge](https://github.com/MettoNao/puzzle_study/blob/main/Images/Puyo_Image_02.png)
