@@ -22,3 +22,6 @@
 
 * 05/08 盤面の作成
 ![iamge](https://github.com/MettoNao/puzzle_study/blob/main/Images/Puyo_Image_03.png)
+
+## WebGL 環境での実行
+- .[公開URL].(https://MettoNao.github.io/puzzle_study/WebGL/WebGL/)
