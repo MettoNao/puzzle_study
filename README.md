@@ -19,3 +19,6 @@
 
 * 05/01 PuyoController追加、PuyoController
 ![iamge](https://github.com/MettoNao/puzzle_study/blob/main/Images/Puyo_Image_02.png)
+
+* 05/08 盤面の作成
+![iamge](https://github.com/MettoNao/puzzle_study/blob/main/Images/Puyo_Image_03.png)
