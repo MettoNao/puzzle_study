@@ -23,7 +23,7 @@
 * 05/08 盤面の作成
 ![iamge](https://github.com/MettoNao/puzzle_study/blob/main/Images/Puyo_Image_03.png)
 
-* 05/15 盤面の作成
+* 05/15 Playerの追加
 ![iamge](https://github.com/MettoNao/puzzle_study/blob/main/Images/Puyo_Image_04.png)
 
 ## WebGL 環境での実行
