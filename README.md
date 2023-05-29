@@ -26,5 +26,8 @@
 * 05/15 Playerの追加
 ![iamge](https://github.com/MettoNao/puzzle_study/blob/main/Images/Puyo_Image_04.png)
 
+* 05/29 回転、クイックドロップ機能の追加
+![iamge](https://github.com/MettoNao/puzzle_study/blob/main/Images/Puyo_Image_05.png)
+
 ## WebGL 環境での実行
 - [公開URL](https://MettoNao.github.io/puzzle_study/WebGL/WebGL/)
