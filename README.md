@@ -29,5 +29,11 @@
 * 05/29 回転、クイックドロップ機能の追加
 ![iamge](https://github.com/MettoNao/puzzle_study/blob/main/Images/Puyo_Image_05.png)
 
+* 06/05 アニメーション処理
+![iamge](https://github.com/MettoNao/puzzle_study/blob/main/Images/Puyo_Image_06.png)
+
+* 06/12 重力落下
+![iamge](https://github.com/MettoNao/puzzle_study/blob/main/Images/Puyo_Image_07.png)
+
 ## WebGL 環境での実行
 - [公開URL](https://MettoNao.github.io/puzzle_study/WebGL/WebGL/)
