@@ -40,5 +40,10 @@
 
 * 07/24 ゲームオーバー
 
+* 07/24 プヨをちぎって落とす
+![iamge](https://github.com/MettoNao/puzzle_study/blob/main/Images/Puyo_Image_10.png)
+
+* 07/24 ゲームオーバー
+
 ## WebGL 環境での実行
 - [公開URL](https://MettoNao.github.io/puzzle_study/WebGL/WebGL/)
