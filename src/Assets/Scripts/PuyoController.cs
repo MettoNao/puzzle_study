@@ -36,16 +36,16 @@ public class PuyoController : MonoBehaviour
     PuyoType _type = PuyoType.Invalid;
 
     // Start is called before the first frame update
-//    void Start()
-//    {
-//        // 今回は使わない
-//    }
+    //    void Start()
+    //    {
+    //        // 今回は使わない
+    //    }
 
     // Update is called once per frame
-//    void Update()
-//    {
-//        // 今回は使わない
-//    }
+    //    void Update()
+    //    {
+    //        // 今回は使わない
+    //    }
 
     public void SetPuyoType(PuyoType type)
     {
